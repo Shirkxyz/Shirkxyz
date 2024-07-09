@@ -2,7 +2,7 @@
 
 I'm a Product Designer, Indie Dev and AI Enthusiast.
 
-My work primarily involves Product Design(UX/UI) and indie dev projects.
+My work primarily involves product design(UX/UI) and indie dev projects.
 
 ## 📫 Get in Touch 
 
