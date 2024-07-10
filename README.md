@@ -11,7 +11,7 @@ My work primarily involves product design(UX/UI) and indie dev projects.
 
 * [Twitch Chat Plays](https://github.com/Shirkxyz/twitch-chat-plays-bot) - A Python script for Twitch chat interaction with almost any game.
 * [~~THG~~]() - Game Studio Site (in development)
-* [~~P:TA~~]() - Game project (in development)
+* [~~P:TA~~]() - Game project - wirtten in [GDScript](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html#doc-gdscript) (in development)
 * [squashed](http://squashed.xyz) - Rate anything video(games/movies) related (in development)
 * [videogamesdb](https://www.videogamesdb.com) - Video Games Database (in development)
 
