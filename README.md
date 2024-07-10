@@ -4,7 +4,8 @@ I'm a Product Designer, Indie Dev and [AI](https://huggingface.co/) Enthusiast.
 
 My work primarily involves product design(UX/UI) and indie dev projects.
 
-![Static Badge](https://img.shields.io/badge/Microsoft%20Sucks!-lightblue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Windows%2011%20Sucks!-lightblue?style=for-the-badge)
+
 
 ### 🚀 Personal Project(s)
 
