@@ -4,6 +4,13 @@ I'm a Product Designer, Indie Dev and [AI](https://huggingface.co/) Enthusiast.
 
 My work primarily involves product design(UX/UI) and indie dev projects.
 
+### 🚀 Personal Project(s)
+
+* [THG]() - Game Studio Site (in development)
+* [P:TA]() - Game project (in development)
+* [squashed](https://squashed.xyz) - Rate anything video(games/movies) related (in development)
+* [videogamesdb](https://www.videogamesdb.com) - Video Games Database (in development)
+
 ### 📫 Get in Touch 
 
 - [Bluesky](https://bsky.app/profile/shirkxyz.bsky.social)
