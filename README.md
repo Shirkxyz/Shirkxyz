@@ -4,6 +4,8 @@ I'm a Product Designer, Indie Dev and [AI](https://huggingface.co/) Enthusiast.
 
 My work primarily involves product design(UX/UI) and indie dev projects.
 
+![Static Badge](https://img.shields.io/badge/Microsoft%20Sucks!-lightblue?style=for-the-badge)
+
 ### 🚀 Personal Project(s)
 
 * [Twitch Chat Plays](https://github.com/Shirkxyz/twitch-chat-plays-bot) - A Python script for Twitch chat interaction with almost any game.
@@ -34,6 +36,7 @@ My work primarily involves product design(UX/UI) and indie dev projects.
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/148696147697991680)
 
 #
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 [![Russian Warship Go Fuck Yourself](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/RussianWarship.svg)](https://stand-with-ukraine.pp.ua)
 
