@@ -6,6 +6,7 @@ My work primarily involves product design(UX/UI) and indie dev projects.
 
 ### 🚀 Personal Project(s)
 
+* [Twitch Chat Plays](https://github.com/Shirkxyz/twitch-chat-plays-bot) - Bot that allows chat to interact with the game being streamed.
 * [~~THG~~]() - Game Studio Site (in development)
 * [~~P:TA~~]() - Game project (in development)
 * [squashed](http://squashed.xyz) - Rate anything video(games/movies) related (in development)
