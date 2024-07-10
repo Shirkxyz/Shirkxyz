@@ -4,9 +4,6 @@ I'm a Product Designer, Indie Dev and [AI](https://huggingface.co/) Enthusiast.
 
 My work primarily involves product design(UX/UI) and indie dev projects.
 
-![Static Badge](https://img.shields.io/badge/Windows%2011%20Sucks!-lightblue?style=for-the-badge)
-
-
 ### 🚀 Personal Project(s)
 
 * [Twitch Chat Plays](https://github.com/Shirkxyz/twitch-chat-plays-bot) - A Python script for Twitch chat interaction with almost any game.
@@ -30,6 +27,7 @@ My work primarily involves product design(UX/UI) and indie dev projects.
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
 
 ### 📫 Get in Touch 
 
