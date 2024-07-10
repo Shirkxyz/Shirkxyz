@@ -1,10 +1,10 @@
-# 👋 Hello, I'm [Shirkxyz](https://github.com/shirkxyz)
+## 👋 Hello, I'm Shirkxyz
 
 I'm a Product Designer, Indie Dev and AI Enthusiast.
 
 My work primarily involves product design(UX/UI) and indie dev projects.
 
-## 📫 Get in Touch 
+### 📫 Get in Touch 
 
 - [Bluesky](https://bsky.app/profile/shirkxyz.bsky.social)
 - Discord: shirkxyz
