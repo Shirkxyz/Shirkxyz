@@ -1,8 +1,8 @@
 ## 👋 Hello, I'm Shirkxyz
 
-I'm a Product Designer, Indie Dev and a [AI](https://huggingface.co/) Enthusiast.
+I'm a product designer, indie game dev and a [AI](https://huggingface.co/) enthusiast.
 
-My work primarily involves product design(UX/UI) and indie dev projects.
+My work lately, primarily involves indie game dev projects, and product design consulting.
 
 ### 🚀 Personal Project(s)
 
