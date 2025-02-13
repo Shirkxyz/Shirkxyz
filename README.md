@@ -7,8 +7,7 @@ My work lately, primarily involves indie game dev projects, and product design c
 ### 🚀 Personal Project(s)
 
 * [Twitch Chat Plays](https://github.com/Shirkxyz/twitch-chat-plays-bot) - A Python script for Twitch chat interaction with almost any game.
-* [~~THG~~]() - Game Studio Site (in development)
-* [~~P:TA~~]() - Game project - wirtten in [GDScript](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html#doc-gdscript) (in development)
+* [~~P:TA~~]() - Game project (in development) - wirtten in [GDScript](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html#doc-gdscript)
 
 ### 🥞 Stack
 
