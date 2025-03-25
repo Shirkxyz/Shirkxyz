@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Shirkxyz
+## 👋 Hello, I'm Shirkxyz (shirks•ies)
 
 I'm a product designer, indie game dev and a [AI](https://huggingface.co/) enthusiast.
 
@@ -31,12 +31,6 @@ My work lately, primarily involves indie game dev projects, and product design c
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
-
-
-
-### 📫 Get in Touch 
-
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/shirkxyz.bsky.social)
 
 #
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
