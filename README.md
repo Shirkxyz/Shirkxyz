@@ -1,13 +1,13 @@
 ## 👋 Hello, I'm Shirkxyz (shirks•ies)
 
-I'm a designer, indie game dev and a [AI](https://huggingface.co/) enthusiast.
+I'm a designer, indie dev and a [AI](https://huggingface.co/) enthusiast.
 
-My work lately, primarily involves indie game dev projects, and product design consulting.
+My work lately, primarily involves an indie game project, and product design consulting.
 
 ### 🚀 Personal Project(s)
 
 * [Twitch Chat Plays](https://github.com/Shirkxyz/twitch-chat-plays-bot) - A Python script for Twitch chat interaction with almost any game.
-* [~~P:TA~~]() - Game project (in development) - wirtten in [Lua - Love2D](https://www.love2d.org/)
+* [~~P:TA~~]() - Game project (in development) - wirtten in [GDScript]([https://www.love2d.org/](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html))
 
 ### 🥞 Stack
 
