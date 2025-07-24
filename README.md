@@ -1,14 +1,12 @@
 ## 👋 Hello, I'm Shirkxyz (shirks•ies)
 
-designer, indie dev and a [AI](https://huggingface.co/) enthusiast.
-
-My work lately primarily involves an indie game project, iOS app and some product design consulting.
+alias account...
 
 ### 🥞 Stack
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=debian,apple,figma,neovim,godot,swift,html,css,js,py,lua,rust" />
+    <img src="https://skillicons.dev/icons?i=arch,apple,figma,neovim,godot,swift,html,css,js,py,lua,rust" />
   </a>
 </p>
 
